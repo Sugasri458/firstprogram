@@ -1,0 +1,1 @@
+it is created to understand the working of merge conflict
